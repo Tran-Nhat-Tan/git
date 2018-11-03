@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 so so sad
 gg what hell
+=======
+>>>>>>> parent of a96e6c3... best.txt changed
